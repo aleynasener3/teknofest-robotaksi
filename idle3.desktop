@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Link
+Name=Python 3 (IDLE)
+Icon=python
+URL=/usr/share/raspi-ui-overrides/applications/idle3.desktop
